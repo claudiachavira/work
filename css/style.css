@@ -1,0 +1,52 @@
+h1 {
+	font-family: 'Quicksand';
+	font-size: 30px;
+	padding-bottom: 30px;
+	padding-top: 20px;
+}
+
+p {
+	font-family: 'Lora';
+	font-size: 15px;
+	line-height: 20px;
+}
+
+.work {
+	padding-top: 20px;
+
+}
+
+img {
+	height: 200px;
+	width: auto;
+	padding: 5px 5px 5px 5px;
+   	border: 1px solid #000000;
+   	background-color: #ffffff;
+
+}
+
+.images {
+	margin-top: 10px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+	font-family: 'Lora';
+	line-height: 24px;
+
+}
+
+span{
+	color: #FADADD;
+
+}
+
+a:hover {
+	background-color: #FADADD;
+	color: #ffffff;
+}
+
+.copyright {
+	font-size: 12px;
+}
